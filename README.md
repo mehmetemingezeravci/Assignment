@@ -21,3 +21,4 @@ Explicitly design and show the below equation on our Design Simulator.
 ### Screenshots
 
 *Insert Screenshots here*
+![javaw_3o2gqdVNyb](https://github.com/abbaselmas/Assignment/assets/148023516/5c1b132f-ddaa-423a-a2f3-47390f039de5)
