@@ -20,4 +20,4 @@ Explicitly design and show the below equation on our Design Simulator.
 
 ### Screenshots
 
-*Insert Screenshots here*
+![javaw_3o2gqdVNyb](https://github.com/abbaselmas/Assignment/assets/148023516/7c39a635-0f8a-4ed6-a016-81b31be56b18)
