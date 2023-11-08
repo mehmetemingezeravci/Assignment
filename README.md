@@ -18,3 +18,4 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 ### Screenshots
 
 *Insert Screenshots here*
+![javaw_mN5vhxuLSu](https://github.com/abbaselmas/Assignment/assets/148023516/bbd04104-c0f8-4adb-9b44-07ca1192c4a0)
