@@ -16,5 +16,5 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 7- Save and Upload your circuit Digital design file to the repo like **Assignment3.dig**. 
 
 ### Screenshots
+![javaw_mN5vhxuLSu](https://github.com/abbaselmas/Assignment/assets/148023516/1c3ff971-af9b-4b65-880c-8e7b67656d67)
 
-*Insert Screenshots here*
