@@ -14,6 +14,7 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 5- Implement the simplified equation by logic gates.
 6- Show there is no difference between the outputs of two circuits.
 7- Save and Upload your circuit Digital design file to the repo like **Assignment3.dig**. 
+![javaw_mN5vhxuLSu](https://github.com/abbaselmas/Assignment/assets/148023516/aa14ec8a-b328-40b6-8f07-6ca30e55a17e)
 
 ### Screenshots
 
