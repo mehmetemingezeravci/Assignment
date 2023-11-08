@@ -17,4 +17,4 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 
 ### Screenshots
 
-*Insert Screenshots here*
+*Insert Screenshots here*![javaw_mN5vhxuLSu](https://github.com/abbaselmas/Assignment/assets/148023516/8205e0d1-a051-40d5-adaf-d702abd32500)
