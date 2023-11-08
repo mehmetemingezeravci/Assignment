@@ -15,6 +15,8 @@ F(A,B,C) = $\overline{ABC}$ + $\overline{AB}$ C + A $\overline{BC}$ + AB $\overl
 6- Show there is no difference between the outputs of two circuits.
 7- Save and Upload your circuit Digital design file to the repo like **Assignment3.dig**. 
 
-### Screenshots
+### Screensho
+![javaw_mN5vhxuLSu](https://github.com/abbaselmas/Assignment/assets/148023516/82e2370c-f0ce-45ef-a600-e271fe6bc751)
+ts
 
 *Insert Screenshots here*
