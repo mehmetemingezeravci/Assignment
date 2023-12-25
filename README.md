@@ -19,5 +19,6 @@ Explicitly design and show the below equation on our Design Simulator.
 4- Standard set equipments  
 
 ### Screenshots
+![javaw_ucJ05eoRoC](https://github.com/mehmetemingezeravci/Assignment/assets/148023516/bbf9463e-ef3f-4b2c-8e1c-09d15d907b48)
 
 *Insert Screenshots here*
